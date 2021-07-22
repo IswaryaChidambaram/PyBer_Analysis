@@ -27,7 +27,7 @@ The average fare per ride in Urban is significantly lower when compared to avera
 
 Similarly the average per driver in Urban is significantly lower when compared to the average fare per driver in rural areas.
 
-![Screenshot of PyBer Summary](Resources/PyBer_summary.png)
+![Screenshot of PyBer Summary](Resources/Pyber_summary.png)
 
 ## Summary:
 
